@@ -103,24 +103,6 @@ FamilyTreeProject/
 └── UML_Diagram.png
 ```
 
-## How to Run in IntelliJ IDEA
-
-### Setup
-1. Open IntelliJ IDEA
-2. Create a new Java project or open existing one
-3. Copy all source files maintaining the package structure above
-4. Ensure Project SDK is set to Java 17 or higher (File → Project Structure → Project)
-
-### Running the Application
-1. Open `Main.java`
-2. Click the green play button next to `public static void main`
-3. The application will start in the Run console at the bottom
-
-### Running Tests
-1. Open `test/FamilyTreeTest.java`
-2. Click the green play button next to `public static void main`
-3. Test results will appear in the console
-
 ## Available Commands
 
 ```
